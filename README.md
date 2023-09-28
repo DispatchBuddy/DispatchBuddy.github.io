@@ -1,3 +1,3 @@
-# DispatchBuddy.github.io
+# DispatchBuddy Chrome Extension
 
-Testing, testing
+A productivity tool built for dispatchers. 
