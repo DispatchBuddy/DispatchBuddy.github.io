@@ -1,123 +1,52 @@
 ---
 layout: default
+title: Dispatch Buddy
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Streamline your dispatching tasks on the DAT loadboard.
 
-[Link to another page](./another-page.html).
-
-There there.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[Install on Chrome](https://chrome.google.com/webstore/detail/dispatch-buddy/dpkeilaifcjgjpblgclmloaemfeioajg?hl=en&authuser=0)
 
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Features
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Click-to-Email Functionality
+Quickly send emails with customizable templates
 
-```
-The final element.
-```
+![Click-to-Email](/assets/click-to-email.png)
+
+### Rate Per Mile Calculation
+Instantly see the rate per mile for each load
+
+![Rate Calculation](/assets/rate-calculation.png)
+
+### Google Maps Integration
+Swap out default trip views for more functional Google Maps links
+
+![Google Maps](/assets/google-maps.png)
+
+---
+
+## How it Works
+
+1. **Installation**
+    - Install the extension from the Chrome Web Store
+2. **Configuration**
+    - Customize your email template and settings
+3. **Usage**
+    - Navigate to DAT loadboard and enjoy streamlined dispatching
+
+---
+
+## Privacy & Security
+
+- We collect only essential data for function and no personal info beyond email.
+- OAuth is solely for sending emails.
+  
+[Full Privacy Policy](./privacy-policy.html)
+
+---
+
+[Contact Us](#)
