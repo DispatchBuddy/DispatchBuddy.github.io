@@ -5,7 +5,7 @@ title: Dispatch Buddy
 
 # Dispatch smarter, not harder.
 
-<a href="https://chrome.google.com/webstore/detail/dispatch-buddy/dpkeilaifcjgjpblgclmloaemfeioajg?hl=en&authuser=0" style="background-color: #4285F4; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 12px;">Install on Chrome</a>
+<a href="https://chrome.google.com/webstore/detail/dispatch-buddy/dpkeilaifcjgjpblgclmloaemfeioajg?hl=en&authuser=0" style="background-color: #4285F4; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 12px;">Add to Chrome</a>
 
 ---
 
