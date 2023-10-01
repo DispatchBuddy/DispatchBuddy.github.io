@@ -49,4 +49,4 @@ Swap out default trip views for more functional Google Maps links
 
 ---
 
-[Contact Us](#)
+[Contact Us](mailto:iggydispatch@gmail.com).
