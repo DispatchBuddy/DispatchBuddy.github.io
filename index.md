@@ -3,10 +3,9 @@ layout: default
 title: Dispatch Buddy
 ---
 
-# Streamline your dispatching tasks on the DAT loadboard.
+# Dispatch smarter, not harder.
 
-[Install on Chrome](https://chrome.google.com/webstore/detail/dispatch-buddy/dpkeilaifcjgjpblgclmloaemfeioajg?hl=en&authuser=0)
-
+<a href="https://chrome.google.com/webstore/detail/dispatch-buddy/dpkeilaifcjgjpblgclmloaemfeioajg?hl=en&authuser=0" style="background-color: #4285F4; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 12px;">Install on Chrome</a>
 
 ---
 
