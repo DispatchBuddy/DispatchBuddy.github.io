@@ -1,48 +1,52 @@
 ---
 layout: default
 title: Privacy Policy
-description: Your privacy is our priority. 
+description: Your privacy is our priority.
 ---
 
-## Dispatch Buddy Privacy Policy
+# Dispatch Buddy Privacy Policy
 
-Last updated: September 30, 2023
+**Last updated: January 21st, 2024**
 
-We are committed to maintaining robust privacy protections and being transparent about how we handle your data.
+At Dispatch Buddy, your privacy isn't just a priority, it's a guiding principle. We are firmly committed to minimal data collection, robust privacy protections, and transparent data handling.
 
-### Introduction
+## Introduction
 
-At Dispatch Buddy, we prioritize your privacy and data security. This Privacy Policy explains how Dispatch Buddy ("we", "our", "us") handles your personal data. This policy applies globally, unless specifically noted otherwise.
+Safeguarding your privacy is at the core of what we do at Dispatch Buddy. This Privacy Policy clearly outlines our minimalistic approach to data collection and applies globally.
 
-### What Data We Collect
+## What Data We Collect
 
-#### Information You Provide
-- **Account Info**: email.
-- **Payment Info**: We use Stripe, so we don't handle or store your payment info.
-- **Customer Support**: Information related to support requests.
-- **Other Content**: Feedback, comments, survey responses, etc.
+- **Account Information**: We collect only your email address for account creation and management.
 
-### How We Use Data
-- Account creation and authentication.
-- To fulfill your requested services.
-- Customer support.
-- Security and fraud prevention.
-- Legal obligations.
+## What Data We Do Not Collect
 
-### Data Sharing
-- **Public Data**: If your profile is public.
-- **Managed Accounts**: If you use a corporate email.
-- **Partners**: For sales, support, and tech services.
-- **Merger/Acquisition**: If ownership changes.
+- **Payment Information**: Your financial data is secure with Stripe. We neither access nor store your payment information.
+- **Browsing History & Keystrokes**: We respect your online privacy. Your browsing habits and keystrokes are not tracked or recorded.
 
-### Security
-We employ administrative, technical, and physical security measures to protect your data.
+## Limited Data Use
 
-### Data Retention
-We retain data as long as necessary for services, legal obligations, and agreements.
+- **Purpose-Driven**: Your email is used exclusively for account-related purposes, including customer support and service fulfillment.
+- **No Excess**: Our data collection policy is straightforward – if we don’t need it, we don’t collect it.
 
-### Your Rights
-You have the right to access, correct, or delete your data.
+## Google API Services User Data Policy
+
+In compliance with the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements, we handle your data responsibly and securely.
+
+## Security
+
+Your data is protected through a combination of administrative, technical, and physical security measures, ensuring maximum protection with minimal data.
+
+## Data Retention
+
+We retain your data only as long as necessary to deliver our services, meet legal obligations, and honor our agreements.
+
+## Your Rights
+
+Your data is under your control. You have the right to access, correct, or delete your data at any time.
+
+## Contact Us
+
+If you have any concerns or questions about how we handle your data, please don't hesitate to reach out to us. We are here to address any worries and ensure your experience with Dispatch Buddy is secure and comfortable.
 
 ---
 
